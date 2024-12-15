@@ -1,3 +1,4 @@
 rootProject.name = 'medi_daily_backend'
 
 include 'medi-api'
+include 'medi-data'

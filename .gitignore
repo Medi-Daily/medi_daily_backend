@@ -35,4 +35,5 @@ out/
 
 ### VS Code ###
 .vscode/
+/medi-data/src/main/resources
 /medi-api/src/main/resources
